@@ -1,6 +1,8 @@
 # Flutter Calculator App
 
-A simple calculator app built with Flutter that follows the MVC (Model-View-Controller) pattern.
+A simple calculator app built with Flutter that follows the MVC (Model-View-Controller) pattern. 
+
+!!To avoid version problems check the app in Chrome( flutter run , 2 )
 
 ## Features
 

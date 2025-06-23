@@ -11,9 +11,7 @@ A simple calculator app built with Flutter that follows the MVC (Model-View-Cont
 - Distance converter (kilometers ↔ miles)
 - Clean dark theme UI
 
-## Screenshots
 
-*Add your app screenshots here*
 
 ## File Structure
 
